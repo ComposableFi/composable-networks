@@ -120,7 +120,7 @@
     "consensus": null,
     "crisis": {
       "constant_fee": {
-        "denom": "stake",
+        "denom": "ppica",
         "amount": "1000"
       }
     },
@@ -350,7 +350,7 @@
       "params": {
         "min_deposit": [
           {
-            "denom": "stake",
+            "denom": "ppica",
             "amount": "10000000"
           }
         ],
@@ -450,7 +450,7 @@
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "stake",
+        "mint_denom": "ppica",
         "inflation_rate_change": "0.130000000000000000",
         "goal_bonded": "0.670000000000000000",
         "blocks_per_year": "6311520",
@@ -458,7 +458,7 @@
         "min_token_per_year": "800000000000000"
       },
       "incentives_supply": {
-        "denom": "stake",
+        "denom": "ppica",
         "amount": "100000000000"
       }
     },
@@ -503,7 +503,7 @@
         "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
-        "bond_denom": "stake",
+        "bond_denom": "ppica",
         "min_commission_rate": "0.000000000000000000"
       },
       "last_total_power": "0",
